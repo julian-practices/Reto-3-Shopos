@@ -1,5 +1,5 @@
 # Reto-3-Shopos
-El siguiente es un intento de desarrollo del reto número 3 de sophos, se realizo siguiendo el Modelo-Vista-Controlador.
+El presente proyecto es el desarrollo del reto número 3 de sophos, se realizo siguiendo el patrón de arquitectura de software -> Modelo-Vista-Controlador.
 
 Para que el proyecto funcione sin problemas se deben cambiar las credenciales de conexión a la base de datos, en el archivo application.properties.
 
